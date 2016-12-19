@@ -1,0 +1,3 @@
+P pagina8.txt
+R resursa25.txt
+P pagina7.txt

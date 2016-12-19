@@ -1,0 +1,3 @@
+P pagina23.txt
+P pagina67.txt
+R resursa11.txt

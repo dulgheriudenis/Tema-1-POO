@@ -1,0 +1,5 @@
+P pagina1.txt
+P pagina5.txt
+P pagina3.txt
+P pagina3.txt
+R resursa2.txt
